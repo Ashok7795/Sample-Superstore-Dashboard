@@ -18,6 +18,8 @@ The primary goal of this project is to analyze the performance of products acros
 - Show how much sales has been done by each category
 - Create the chart to display profit over months
 
+- Dashboard interaction <a href="https://github.com/Ashok7795/Sample-Superstore-Dashboard/blob/main/Screenshot%202026-08-02%20223224.png">View Dashboard</a>
+
 ## Cleaning Process
 
 The dataset was cleaned and prepared before visualization to ensure accuracy and consistency.
@@ -33,5 +35,10 @@ The following data preprocessing steps were performed:
 - Renamed column headers where necessary for better readability.
 - Created a Date hierarchy for Year, Quarter, Month, and Day analysis.
 
-- Dashboard interaction <a href="
+## Dashboard
+<img width="836" height="426" alt="Screenshot 2026-08-02 223224" src="https://github.com/user-attachments/assets/589774aa-8820-4b65-8cb5-b822c275cad7" />
+
+
+
+
 
