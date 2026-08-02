@@ -18,7 +18,7 @@ The primary goal of this project is to analyze the performance of products acros
 - Show how much sales has been done by each category
 - Create the chart to display profit over months
 
-##Cleaning Process
+## Cleaning Process
 
 The dataset was cleaned and prepared before visualization to ensure accuracy and consistency.
 
